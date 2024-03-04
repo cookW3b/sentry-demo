@@ -19,6 +19,7 @@ module.exports = {
         name: "my-project-name@2.3.13",
         inject: true
       },
+      telemetry: false,
       debug: true
     }),
   ],
